@@ -1,3 +1,4 @@
 # Spotify_Data_Exploration_SQL
 
-![image](https://github.com/user-attachments/assets/58caca96-144a-40e1-8659-ca99edcf69b1)
+![image](https://github.com/user-attachments/assets/b77c4c54-9336-4408-b482-d798a9fcba7d)
+
